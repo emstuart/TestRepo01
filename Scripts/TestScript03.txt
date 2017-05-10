@@ -1,1 +1,3 @@
 Some random entry ...
+
+An entry after creating branch
